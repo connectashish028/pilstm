@@ -1,7 +1,5 @@
 # Raspberry Pi Sensor Data Forecasting with LSTM
 
-![Project Banner](assets/banner.png)
-
 ## 📌 Problem Statement
 
 **Goal:** To forecast temperature and humidity using time series data collected from a Raspberry Pi's environmental sensor, leveraging an LSTM neural network for accurate predictions.
